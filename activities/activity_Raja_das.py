@@ -4,7 +4,7 @@
 
 """
 
-This activity will generate a topographic index map that indicates spatial zones of possible water accumulation.
+This activity will generate a topographic index map that indicates spatial zone of possible water accumulation.
 
 """
 
