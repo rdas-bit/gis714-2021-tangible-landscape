@@ -3,7 +3,7 @@
       {
       "layers": [
         [
-          "d.rast", "map=_topoindex"
+          "d.rast", "map=topoindex"
         ]
       ],
       "base": "elevation",
